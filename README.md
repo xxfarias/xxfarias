@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning HTML/CSS and JS
 
 <div>
   <a href="https://github.com/xxfarias">
