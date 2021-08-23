@@ -1,7 +1,7 @@
 ## Eu sou o Guilherme Farias! 
 - Tenho 19 anos
 - Cursando Análise e Desenvolvimento de Sistemas - USJT
-- Cursando Desenvolvedor WEB pelo Instituto PROA
+- Cursando Desenvolvimento WEB pelo Instituto PROA
 - Estou adentrando a área de Desenvolvimento Web - Front end
 
 
