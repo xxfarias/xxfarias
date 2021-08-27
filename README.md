@@ -17,7 +17,7 @@
   <img align="center" alt="Gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <div class="tenor-gif-embed" data-postid="9419234" data-share-method="host" data-aspect-ratio="1.83824" data-width="100%"><a href="https://tenor.com/view/hxh-gon-anime-gif-9419234">Hxh Gon GIF</a>from <a href="https://tenor.com/search/hxh-gifs">Hxh GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img align="right" alt="Gui-gon" height="150" width="250" src="https://cdn.discordapp.com/attachments/852698455246897172/880825193830948904/gon.gif">
 </div>
   
   ##
