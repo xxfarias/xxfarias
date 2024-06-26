@@ -1,10 +1,8 @@
 ## Eu sou o Guilherme Farias! 
-- Tenho 20 anos
-- Cursando Análise e Desenvolvimento de Sistemas - USJT
+- Tenho 22 anos
+- Formado em Análise e Desenvolvimento de Sistemas/2023
 - Programador Web Java - SENAC - 12/21
-- Estou adentrando a área de Desenvolvimento WEB - Front end
-- Meus objetivos agora são aprender e aperfeioçar os meus conhecimentos em React. e em breve, Angular.
-
+- Estou adentrando na área de Python 🐍
 
 <div>
   <a href="https://github.com/xxfarias">
