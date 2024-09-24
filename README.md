@@ -1,5 +1,6 @@
 ## Eu sou o Guilherme Farias! 
 - Tenho 22 anos
+- Cursando pós graduação em inteligência artificial
 - Formado em Análise e Desenvolvimento de Sistemas/2023
 - Programador Web Java - SENAC - 12/21
 - Estou adentrando na área de Python 🐍
