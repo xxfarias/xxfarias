@@ -1,9 +1,10 @@
 ## Eu sou o Guilherme Farias! 
-- Tenho 22 anos
+- Tenho 23 anos
+- Cursando Analise de dados na Preditiva AI - Escola de dados
 - Cursando pós graduação em inteligência artificial
 - Formado em Análise e Desenvolvimento de Sistemas/2023
 - Programador Web Java - SENAC - 12/21
-- Estou adentrando na área de Python 🐍
+- Python para analise de dados 🐍
 
 <div>
   <a href="https://github.com/xxfarias">
