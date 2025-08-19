@@ -18,7 +18,6 @@
 <div style="display: inline_block;"><br>
   <h3>Tecnologias e Ferramentas:</h3>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" alt="Excel" height="30" width="40" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">
   <img align="center" alt="Power BI" height="30" width="40" src="https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
