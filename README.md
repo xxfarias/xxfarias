@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Guilherme Farias! 👋
 
-- 👨‍💻 Tenho 23 anos e sou apaixonado por tecnologia e dados.
+- 👨‍💻 Tenho 24 anos e sou apaixonado por tecnologia e dados.
 - 🎓 Formado em **Análise e Desenvolvimento de Sistemas** (2023).
 - 🐍 Cursando Análise de Dados na **Preditiva AI - Escola de dados**.
 - 🧠 Pós-graduando em **Inteligência Artificial**.
